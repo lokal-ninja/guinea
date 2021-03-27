@@ -1,0 +1,5 @@
+---
+title: "Fatoumata Binta Tailoring Shop"
+url: /ganta/fatoumata-binta-tailoring-shop-3/
+shop: tailleur
+---

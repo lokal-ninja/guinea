@@ -1,0 +1,5 @@
+---
+title: "Atelier de couture"
+url: /nongoa/atelier-de-couture-6/
+shop: tailleur
+---

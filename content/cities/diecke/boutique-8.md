@@ -1,0 +1,5 @@
+---
+title: "Boutique"
+url: /diecke/boutique-8/
+shop: électronique
+---

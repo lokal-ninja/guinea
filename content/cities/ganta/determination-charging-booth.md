@@ -1,0 +1,5 @@
+---
+title: "Determination Charging Booth"
+url: /ganta/determination-charging-booth/
+shop: téléphone portable
+---
