@@ -1,5 +1,0 @@
----
-title: "God There Business Center"
-url: /ganta/god-there-business-center-3/
-shop: commodité
----

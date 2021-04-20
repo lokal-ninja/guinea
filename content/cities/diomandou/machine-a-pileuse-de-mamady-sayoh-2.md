@@ -1,5 +1,0 @@
----
-title: "Machine a pileuse de Mamady sayoh"
-url: /diomandou/machine-a-pileuse-de-mamady-sayoh-2/
-shop: coiffeur
----

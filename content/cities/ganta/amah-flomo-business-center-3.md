@@ -1,5 +1,0 @@
----
-title: "Amah Flomo Business Center"
-url: /ganta/amah-flomo-business-center-3/
-shop: commodité
----

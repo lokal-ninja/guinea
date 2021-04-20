@@ -1,5 +1,0 @@
----
-title: "Table de vente de condiments"
-url: /macenta/table-de-vente-de-condiments-3/
-shop: commodité
----

@@ -1,5 +1,0 @@
----
-title: "Kiosque de vente d'huile de moteurs"
-url: /macenta/kiosque-de-vente-dhuile-de-moteurs-2/
-shop: réparation de voitures
----

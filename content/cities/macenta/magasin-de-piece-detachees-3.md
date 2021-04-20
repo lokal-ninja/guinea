@@ -1,5 +1,0 @@
----
-title: "Magasin de Pièce Détachées"
-url: /macenta/magasin-de-piece-detachees-3/
-shop: shop
----

@@ -1,5 +1,0 @@
----
-title: "J. M. T. Business Cebter"
-url: /ganta/j-m-t-business-cebter-2/
-shop: commodité
----
