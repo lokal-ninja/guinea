@@ -1,6 +1,6 @@
 ---
 title: Balancia
 url: /balancia/
-latitude: 
-longitude: 
+latitude: 10.188
+longitude: -11.842
 ---

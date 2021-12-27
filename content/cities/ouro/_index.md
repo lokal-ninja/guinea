@@ -1,6 +1,6 @@
 ---
 title: Ouro
 url: /ouro/
-latitude: 
-longitude: 
+latitude: 7.85
+longitude: -9.109
 ---

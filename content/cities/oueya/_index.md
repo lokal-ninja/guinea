@@ -1,6 +1,6 @@
 ---
 title: Oueya
 url: /oueya/
-latitude: 7.7284464
-longitude: -9.2094833
+latitude: 7.728
+longitude: -9.209
 ---

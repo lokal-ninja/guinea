@@ -1,6 +1,6 @@
 ---
 title: Dalonya
 url: /dalonya/
-latitude: 
-longitude: 
+latitude: 9.664
+longitude: -12.829
 ---

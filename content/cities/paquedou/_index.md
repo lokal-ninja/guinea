@@ -1,6 +1,6 @@
 ---
 title: Paquedou
 url: /paquedou/
-latitude: 
-longitude: 
+latitude: 8.618
+longitude: -10.258
 ---

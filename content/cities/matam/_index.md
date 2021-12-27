@@ -1,6 +1,6 @@
 ---
 title: Matam
 url: /matam/
-latitude: 9.5520583
-longitude: -13.649580100000001
+latitude: 9.548
+longitude: -13.654
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sitakoto
 url: /sitakoto/
-latitude: 10.048874900000001
-longitude: -11.7000162
+latitude: 10.05
+longitude: -11.7
 ---

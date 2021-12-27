@@ -1,6 +1,6 @@
 ---
 title: Bendugu
 url: /bendugu/
-latitude: 10.0677096
-longitude: -11.85195
+latitude: 9.534
+longitude: -10.957
 ---

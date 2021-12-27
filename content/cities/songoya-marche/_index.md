@@ -1,6 +1,6 @@
 ---
 title: Songoya Marché
 url: /songoya-marche/
-latitude: 
-longitude: 
+latitude: 9.725
+longitude: -10.877
 ---

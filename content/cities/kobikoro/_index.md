@@ -1,6 +1,6 @@
 ---
 title: Kobikoro
 url: /kobikoro/
-latitude: 9.2125413
-longitude: -10.543606200000001
+latitude: 9.213
+longitude: -10.544
 ---

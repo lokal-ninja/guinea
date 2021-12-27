@@ -1,6 +1,6 @@
 ---
 title: Demou II
 url: /demou-ii/
-latitude: 
-longitude: 
+latitude: 7.816
+longitude: -8.646
 ---

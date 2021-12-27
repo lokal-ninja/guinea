@@ -1,6 +1,6 @@
 ---
 title: Gama Konikoni
 url: /gama-konikoni/
-latitude: 
-longitude: 
+latitude: 7.835
+longitude: -8.589
 ---

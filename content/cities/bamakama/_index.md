@@ -1,6 +1,6 @@
 ---
 title: Bamakama
 url: /bamakama/
-latitude: 
-longitude: 
+latitude: 7.716
+longitude: -9.268
 ---

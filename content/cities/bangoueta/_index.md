@@ -1,6 +1,6 @@
 ---
 title: Bangouéta
 url: /bangoueta/
-latitude: 7.7770505000000005
-longitude: -8.6784962
+latitude: 7.774
+longitude: -8.675
 ---

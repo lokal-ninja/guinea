@@ -1,6 +1,6 @@
 ---
 title: Tassen
 url: /tassen/
-latitude: 
-longitude: 
+latitude: 9.367
+longitude: -12.759
 ---
