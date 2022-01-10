@@ -1,5 +1,5 @@
 ---
 title: "Blessing & Kindness"
-url: /ganta/blessing-and-kindness/
+url: /ganta/blessing-et-kindness/
 shop: copyshop
 ---

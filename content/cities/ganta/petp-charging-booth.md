@@ -1,5 +1,5 @@
 ---
 title: "P&P Charging Booth"
-url: /ganta/pandp-charging-booth/
+url: /ganta/petp-charging-booth/
 shop: électronique
 ---
