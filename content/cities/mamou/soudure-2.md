@@ -1,5 +1,5 @@
 ---
 title: "Soudure"
-url: /mamou/soudure-2/
+url: /mamou/soudure/
 shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /diecke/boutique-6/
+url: /diecke/boutique/
 shop: commodité
 ---

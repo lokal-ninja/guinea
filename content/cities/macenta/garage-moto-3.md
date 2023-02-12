@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
-url: /macenta/garage-moto-3/
+url: /macenta/garage-moto/
 shop: réparation de voitures
 ---

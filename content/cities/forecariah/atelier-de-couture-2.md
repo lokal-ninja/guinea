@@ -1,5 +1,5 @@
 ---
 title: "Atelier de couture"
-url: /forecariah/atelier-de-couture-2/
+url: /forecariah/atelier-de-couture/
 shop: tailleur
 ---

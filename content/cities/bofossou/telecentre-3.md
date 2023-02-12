@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /bofossou/telecentre-3/
+url: /bofossou/telecentre/
 shop: téléphone portable
 ---

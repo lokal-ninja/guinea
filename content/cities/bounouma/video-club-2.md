@@ -1,5 +1,5 @@
 ---
 title: "Vidéo Club"
-url: /bounouma/video-club-2/
+url: /bounouma/video-club/
 shop: vidéo
 ---

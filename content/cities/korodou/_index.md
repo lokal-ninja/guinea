@@ -1,6 +1,6 @@
 ---
 title: Korodou
 url: /korodou/
-latitude: 9.169
-longitude: -10.095
+latitude: 9.167
+longitude: -10.105
 ---

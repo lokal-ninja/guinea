@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
-url: /diecke/garage-moto-4/
+url: /diecke/garage-moto/
 shop: réparation de voitures
 ---

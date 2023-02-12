@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /koyama/boutique-2/
+url: /koyama/boutique/
 shop: commodité
 ---

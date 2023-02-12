@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /forecariah/boulangerie-3/
+url: /forecariah/boulangerie/
 shop: boulangerie
 ---

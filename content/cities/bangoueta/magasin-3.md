@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
-url: /bangoueta/magasin-3/
+url: /bangoueta/magasin/
 shop: électronique
 ---

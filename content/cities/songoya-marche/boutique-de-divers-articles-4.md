@@ -1,5 +1,5 @@
 ---
 title: "Boutique de divers articles"
-url: /songoya-marche/boutique-de-divers-articles-4/
+url: /songoya-marche/boutique-de-divers-articles/
 shop: commodité
 ---

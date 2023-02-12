@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
-url: /diecke/magasin-2/
+url: /diecke/magasin/
 shop: meubles
 ---

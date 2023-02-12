@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /bounouma/kiosque-2/
+url: /bounouma/kiosque/
 shop: kiosque
 ---

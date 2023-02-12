@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
-url: /bofossou/garage-moto-2/
+url: /bofossou/garage-moto/
 shop: réparation de voitures
 ---

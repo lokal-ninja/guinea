@@ -1,5 +1,5 @@
 ---
 title: "Garage Automobile"
-url: /diecke/garage-automobile-2/
+url: /diecke/garage-automobile/
 shop: réparation de voitures
 ---

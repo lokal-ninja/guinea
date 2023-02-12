@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
-url: /faranah/hangar-2/
+url: /faranah/hangar/
 shop: kiosque
 ---

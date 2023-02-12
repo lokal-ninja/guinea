@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
-url: /koyama/magasin-3/
+url: /koyama/magasin/
 shop: commodité
 ---

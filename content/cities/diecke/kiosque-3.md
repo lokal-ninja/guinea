@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /diecke/kiosque-3/
+url: /diecke/kiosque/
 shop: kiosque
 ---

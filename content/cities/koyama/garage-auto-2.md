@@ -1,5 +1,5 @@
 ---
 title: "Garage Auto"
-url: /koyama/garage-auto-2/
+url: /koyama/garage-auto/
 shop: réparation de voitures
 ---

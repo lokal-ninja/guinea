@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /macenta/kiosque-2/
+url: /macenta/kiosque/
 shop: kiosque
 ---

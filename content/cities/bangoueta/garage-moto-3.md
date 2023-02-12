@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
-url: /bangoueta/garage-moto-3/
+url: /bangoueta/garage-moto/
 shop: réparation de voitures
 ---

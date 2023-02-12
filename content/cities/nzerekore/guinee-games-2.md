@@ -1,5 +1,5 @@
 ---
 title: "Guinée Games"
-url: /nzerekore/guinee-games-2/
+url: /nzerekore/guinee-games/
 shop: kiosque
 ---

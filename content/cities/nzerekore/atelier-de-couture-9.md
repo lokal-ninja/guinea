@@ -1,5 +1,5 @@
 ---
 title: "Atelier de couture"
-url: /nzerekore/atelier-de-couture-9/
+url: /nzerekore/atelier-de-couture/
 shop: tailleur
 ---

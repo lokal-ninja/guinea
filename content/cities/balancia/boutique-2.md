@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /balancia/boutique-2/
+url: /balancia/boutique/
 shop: vêtements
 ---

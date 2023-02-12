@@ -1,5 +1,5 @@
 ---
 title: "Salon de Coiffure"
-url: /mamou/salon-de-coiffure-2/
+url: /mamou/salon-de-coiffure/
 shop: coiffeur
 ---

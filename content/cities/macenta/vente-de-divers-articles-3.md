@@ -1,5 +1,5 @@
 ---
 title: "Vente de divers articles"
-url: /macenta/vente-de-divers-articles-3/
+url: /macenta/vente-de-divers-articles/
 shop: commodité
 ---

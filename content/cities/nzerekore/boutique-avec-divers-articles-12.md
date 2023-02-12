@@ -1,5 +1,5 @@
 ---
 title: "Boutique avec Divers Articles"
-url: /nzerekore/boutique-avec-divers-articles-12/
+url: /nzerekore/boutique-avec-divers-articles/
 shop: commodité
 ---

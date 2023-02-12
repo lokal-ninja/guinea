@@ -1,5 +1,5 @@
 ---
 title: "Magasin de Cola"
-url: /nzerekore/magasin-de-cola-3/
+url: /nzerekore/magasin-de-cola/
 shop: commodité
 ---

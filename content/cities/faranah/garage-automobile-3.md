@@ -1,5 +1,5 @@
 ---
 title: "Garage Automobile"
-url: /faranah/garage-automobile-3/
+url: /faranah/garage-automobile/
 shop: réparation de voitures
 ---

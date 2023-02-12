@@ -1,5 +1,5 @@
 ---
 title: "Salons de Beauté"
-url: /macenta/salons-de-beaute-2/
+url: /macenta/salons-de-beaute/
 shop: beauté
 ---

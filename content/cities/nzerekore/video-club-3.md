@@ -1,5 +1,5 @@
 ---
 title: "Vidéo Club"
-url: /nzerekore/video-club-3/
+url: /nzerekore/video-club/
 shop: vidéo
 ---

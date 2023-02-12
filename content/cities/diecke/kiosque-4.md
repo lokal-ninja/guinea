@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /diecke/kiosque-4/
+url: /diecke/kiosque/
 shop: téléphone portable
 ---

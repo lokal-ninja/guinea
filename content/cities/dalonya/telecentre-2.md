@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /dalonya/telecentre-2/
+url: /dalonya/telecentre/
 shop: téléphone portable
 ---

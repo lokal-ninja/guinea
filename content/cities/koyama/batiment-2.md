@@ -1,5 +1,5 @@
 ---
 title: "Bâtiment"
-url: /koyama/batiment-2/
+url: /koyama/batiment/
 shop: commodité
 ---

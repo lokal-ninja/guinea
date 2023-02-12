@@ -1,5 +1,5 @@
 ---
 title: "Ateliers Couture"
-url: /macenta/ateliers-couture-2/
+url: /macenta/ateliers-couture/
 shop: tailleur
 ---

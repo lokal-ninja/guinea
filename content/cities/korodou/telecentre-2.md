@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /korodou/telecentre-2/
+url: /korodou/telecentre/
 shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conteneur"
-url: /forecariah/conteneur-2/
+url: /forecariah/conteneur/
 shop: commodité
 ---

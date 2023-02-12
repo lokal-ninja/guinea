@@ -1,5 +1,5 @@
 ---
 title: "Porcherie"
-url: /bangoueta/porcherie-2/
+url: /bangoueta/porcherie/
 shop: boucherie
 ---

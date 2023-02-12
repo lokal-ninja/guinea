@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /ouro/telecentre-2/
+url: /ouro/telecentre/
 shop: téléphone portable
 ---

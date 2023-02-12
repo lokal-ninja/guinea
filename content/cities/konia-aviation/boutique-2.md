@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /konia-aviation/boutique-2/
+url: /konia-aviation/boutique/
 shop: commodité
 ---

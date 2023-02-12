@@ -1,5 +1,5 @@
 ---
 title: "Magasin de Stockage"
-url: /macenta/magasin-de-stockage-3/
+url: /macenta/magasin-de-stockage/
 shop: vente en gros
 ---

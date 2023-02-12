@@ -1,5 +1,5 @@
 ---
 title: "Dousse"
-url: /bangoueta/dousse-2/
+url: /bangoueta/dousse/
 shop: boissons
 ---

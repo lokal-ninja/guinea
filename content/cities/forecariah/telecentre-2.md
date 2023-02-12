@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /forecariah/telecentre-2/
+url: /forecariah/telecentre/
 shop: téléphone portable
 ---

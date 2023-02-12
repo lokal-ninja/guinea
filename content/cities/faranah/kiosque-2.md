@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /faranah/kiosque-2/
+url: /faranah/kiosque/
 shop: kiosque
 ---

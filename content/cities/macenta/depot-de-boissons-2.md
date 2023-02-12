@@ -1,5 +1,5 @@
 ---
 title: "Dépôt de boissons"
-url: /macenta/depot-de-boissons-2/
+url: /macenta/depot-de-boissons/
 shop: boissons
 ---

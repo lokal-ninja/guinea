@@ -1,5 +1,5 @@
 ---
 title: "Atelier de couture"
-url: /diecke/atelier-de-couture-2/
+url: /diecke/atelier-de-couture/
 shop: tailleur
 ---

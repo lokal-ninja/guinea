@@ -1,5 +1,5 @@
 ---
 title: "Aissetou Koivogui"
-url: /macenta/aissetou-koivogui-2/
+url: /macenta/aissetou-koivogui/
 shop: boulangerie
 ---

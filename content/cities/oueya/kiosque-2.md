@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /oueya/kiosque-2/
+url: /oueya/kiosque/
 shop: kiosque
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
-url: /nzoo/magasin-3/
+url: /nzoo/magasin/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magasins de Stockage des Produits Agricoles"
-url: /nzerekore/magasins-de-stockage-des-produits-agricoles-2/
+url: /nzerekore/magasins-de-stockage-des-produits-agricoles/
 shop: ferme
 ---

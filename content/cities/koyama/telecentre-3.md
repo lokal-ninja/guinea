@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /koyama/telecentre-3/
+url: /koyama/telecentre/
 shop: kiosque
 ---

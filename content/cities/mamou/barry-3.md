@@ -1,5 +1,5 @@
 ---
 title: "BARRY"
-url: /mamou/barry-3/
+url: /mamou/barry/
 shop: commodité
 ---

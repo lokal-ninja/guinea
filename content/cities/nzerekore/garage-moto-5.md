@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
-url: /nzerekore/garage-moto-5/
+url: /nzerekore/garage-moto/
 shop: réparation de voitures
 ---

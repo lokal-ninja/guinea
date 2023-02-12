@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /yomadou-doukono/telecentre-2/
+url: /yomadou-doukono/telecentre/
 shop: kiosque
 ---

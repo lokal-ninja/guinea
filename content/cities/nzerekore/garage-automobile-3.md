@@ -1,5 +1,5 @@
 ---
 title: "Garage Automobile"
-url: /nzerekore/garage-automobile-3/
+url: /nzerekore/garage-automobile/
 shop: réparation de voitures
 ---

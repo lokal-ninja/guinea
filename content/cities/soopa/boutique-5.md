@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /soopa/boutique-5/
+url: /soopa/boutique/
 shop: commodité
 ---

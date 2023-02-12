@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
-url: /macenta/magasin-3/
-shop: commodité
+url: /macenta/magasin/
+shop: vêtements
 ---

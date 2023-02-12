@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /bamakama/telecentre-2/
+url: /bamakama/telecentre/
 shop: téléphone portable
 ---

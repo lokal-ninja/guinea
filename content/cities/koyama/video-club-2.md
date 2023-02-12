@@ -1,5 +1,5 @@
 ---
 title: "Vidéo Club"
-url: /koyama/video-club-2/
+url: /koyama/video-club/
 shop: vidéo
 ---

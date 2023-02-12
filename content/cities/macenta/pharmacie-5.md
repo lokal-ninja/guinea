@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie"
-url: /macenta/pharmacie-5/
+url: /macenta/pharmacie/
 shop: chimiste
 ---

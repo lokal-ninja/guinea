@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /gama-konikoni/boutique-2/
+url: /gama-konikoni/boutique/
 shop: commodité
 ---
