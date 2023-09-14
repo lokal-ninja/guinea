@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
-url: /koyama/hangar/
+url: /koyama/hangar-2/
 shop: tailleur
 ---

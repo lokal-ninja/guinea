@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /dalonya/kiosque/
+url: /dalonya/kiosque-2/
 shop: commodité
 ---

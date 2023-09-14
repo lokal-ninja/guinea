@@ -1,5 +1,5 @@
 ---
 title: "Tablier"
-url: /macenta/tablier/
+url: /macenta/tablier-2/
 shop: commodité
 ---

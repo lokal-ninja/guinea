@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /gueckedou/telecentre/
+url: /gueckedou/telecentre-4/
 shop: téléphone portable
 ---

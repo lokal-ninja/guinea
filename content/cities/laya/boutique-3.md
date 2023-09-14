@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /laya/boutique/
+url: /laya/boutique-3/
 shop: commodité
 ---

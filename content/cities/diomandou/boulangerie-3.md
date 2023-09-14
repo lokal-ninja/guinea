@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /diomandou/boulangerie/
+url: /diomandou/boulangerie-3/
 shop: boulangerie
 ---

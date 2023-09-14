@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
-url: /gueckedou/hangar/
+url: /gueckedou/hangar-2/
 shop: kiosque
 ---

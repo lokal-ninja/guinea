@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
-url: /bounouma/telecentre/
+url: /bounouma/telecentre-5/
 shop: téléphone portable
 ---

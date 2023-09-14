@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /nzoo/boulangerie/
+url: /nzoo/boulangerie-3/
 shop: boulangerie
 ---

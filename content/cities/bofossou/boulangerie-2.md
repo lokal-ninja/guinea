@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /bofossou/boulangerie/
+url: /bofossou/boulangerie-2/
 shop: boulangerie
 ---

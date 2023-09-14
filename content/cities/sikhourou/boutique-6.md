@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /sikhourou/boutique/
+url: /sikhourou/boutique-6/
 shop: commodité
 ---

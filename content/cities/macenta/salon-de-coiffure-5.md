@@ -1,5 +1,5 @@
 ---
 title: "Salon de Coiffure"
-url: /macenta/salon-de-coiffure/
+url: /macenta/salon-de-coiffure-5/
 shop: coiffeur
 ---

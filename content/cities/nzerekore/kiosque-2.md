@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
-url: /nzerekore/kiosque/
+url: /nzerekore/kiosque-2/
 shop: commodité
 ---
