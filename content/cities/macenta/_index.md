@@ -1,6 +1,6 @@
 ---
 title: Macenta
 url: /macenta/
-latitude: 8.547
-longitude: -9.471
+latitude: 8.557
+longitude: -9.472
 ---
