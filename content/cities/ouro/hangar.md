@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
 url: /ouro/hangar/
-shop: boucherie
+shop: téléphone portable
 ---
