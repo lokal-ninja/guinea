@@ -1,6 +1,6 @@
 ---
 title: Diécké
 url: /diecke/
-latitude: 7.348
-longitude: -8.952
+latitude: 7.349
+longitude: -8.954
 ---
