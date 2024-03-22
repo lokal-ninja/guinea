@@ -1,6 +1,6 @@
 ---
 title: Mamou
 url: /mamou/
-latitude: 10.38
-longitude: -12.08
+latitude: 10.394
+longitude: -12.081
 ---
