@@ -1,6 +1,6 @@
 ---
 title: Gueckedou
 url: /gueckedou/
-latitude: 8.584
-longitude: -10.136
+latitude: 8.562
+longitude: -10.135
 ---
