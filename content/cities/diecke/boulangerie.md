@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /diecke/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

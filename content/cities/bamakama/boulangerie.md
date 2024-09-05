@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /bamakama/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier de coordonnerie"
 url: /macenta/atelier-de-coordonnerie/
-shop: chaussures
+shop: Schuhe
 ---

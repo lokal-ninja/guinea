@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /nongoa/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

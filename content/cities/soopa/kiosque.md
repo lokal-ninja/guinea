@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /soopa/kiosque/
-shop: kiosque
+shop: Kiosk
 ---

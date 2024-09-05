@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /laya/boutique/
-shop: commodité
+shop: Lebensmittel
 ---

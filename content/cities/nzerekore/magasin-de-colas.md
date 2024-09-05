@@ -1,5 +1,5 @@
 ---
 title: "Magasin de colas"
 url: /nzerekore/magasin-de-colas/
-shop: boissons
+shop: Getränke
 ---

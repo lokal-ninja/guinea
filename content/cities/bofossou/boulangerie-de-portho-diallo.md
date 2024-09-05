@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie de Portho Diallo"
 url: /bofossou/boulangerie-de-portho-diallo/
-shop: boulangerie
+shop: Bäckerei
 ---

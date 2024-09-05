@@ -1,5 +1,5 @@
 ---
 title: "Tapisseries"
 url: /nzerekore/tapisseries/
-shop: tailleur
+shop: Schneiderei
 ---

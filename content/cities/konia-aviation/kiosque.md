@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /konia-aviation/kiosque/
-shop: kiosque
+shop: Kiosk
 ---

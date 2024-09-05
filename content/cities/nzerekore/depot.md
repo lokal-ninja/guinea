@@ -1,5 +1,5 @@
 ---
 title: "Dépôt"
 url: /nzerekore/depot/
-shop: boissons
+shop: Getränke
 ---

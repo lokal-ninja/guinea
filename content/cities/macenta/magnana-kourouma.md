@@ -1,5 +1,5 @@
 ---
 title: "Magnana Kourouma"
 url: /macenta/magnana-kourouma/
-shop: commodité
+shop: Lebensmittel
 ---

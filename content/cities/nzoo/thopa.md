@@ -1,5 +1,5 @@
 ---
 title: "Thopa"
 url: /nzoo/thopa/
-shop: commodité
+shop: Lebensmittel
 ---

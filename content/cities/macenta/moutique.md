@@ -1,5 +1,5 @@
 ---
 title: "Moutique"
 url: /macenta/moutique/
-shop: vélo
+shop: Fahrrad
 ---

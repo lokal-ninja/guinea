@@ -1,5 +1,5 @@
 ---
 title: "Four"
 url: /mamou/four/
-shop: boulangerie
+shop: Bäckerei
 ---

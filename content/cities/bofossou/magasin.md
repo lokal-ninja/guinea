@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /bofossou/magasin/
-shop: commodité
+shop: Lebensmittel
 ---

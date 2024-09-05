@@ -1,5 +1,5 @@
 ---
 title: "Magasins"
 url: /laya/magasins/
-shop: commodité
+shop: Lebensmittel
 ---

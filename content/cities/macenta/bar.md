@@ -1,5 +1,5 @@
 ---
 title: "Bar"
 url: /macenta/bar/
-shop: shop
+shop: Allgemein
 ---

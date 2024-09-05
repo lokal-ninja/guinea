@@ -1,5 +1,5 @@
 ---
 title: "Boutique des pneus"
 url: /macenta/boutique-des-pneus/
-shop: pneus
+shop: Reifen
 ---

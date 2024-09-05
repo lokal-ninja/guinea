@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /nzerekore/magasin/
-shop: commodité
+shop: Lebensmittel
 ---

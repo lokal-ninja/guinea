@@ -1,5 +1,5 @@
 ---
 title: "cabane"
 url: /diomandou/cabane/
-shop: bijoux
+shop: Schmuck
 ---

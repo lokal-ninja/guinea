@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /ouro/kiosque/
-shop: commodité
+shop: Lebensmittel
 ---

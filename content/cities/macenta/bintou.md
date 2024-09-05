@@ -1,5 +1,5 @@
 ---
 title: "Bintou"
 url: /macenta/bintou/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tablier"
 url: /bofossou/tablier/
-shop: commodité
+shop: Lebensmittel
 ---

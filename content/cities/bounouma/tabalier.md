@@ -1,5 +1,5 @@
 ---
 title: "Tabalier"
 url: /bounouma/tabalier/
-shop: commodité
+shop: Lebensmittel
 ---

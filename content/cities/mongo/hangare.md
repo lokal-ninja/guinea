@@ -1,5 +1,5 @@
 ---
 title: "Hangare"
 url: /mongo/hangare/
-shop: kiosque
+shop: Kiosk
 ---

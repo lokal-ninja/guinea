@@ -1,5 +1,5 @@
 ---
 title: "Cordonnier"
 url: /gueckedou/cordonnier/
-shop: chaussures
+shop: Schuhe
 ---

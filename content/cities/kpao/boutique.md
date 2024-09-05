@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /kpao/boutique/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abattoir"
 url: /forecariah/abattoir/
-shop: boucherie
+shop: Metzgerei
 ---

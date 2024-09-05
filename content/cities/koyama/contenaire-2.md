@@ -1,5 +1,5 @@
 ---
 title: "Contenaire"
 url: /koyama/contenaire-2/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hangars"
 url: /faranah/hangars/
-shop: commodité
+shop: Lebensmittel
 ---

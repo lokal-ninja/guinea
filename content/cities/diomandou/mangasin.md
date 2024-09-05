@@ -1,5 +1,5 @@
 ---
 title: "Mangasin"
 url: /diomandou/mangasin/
-shop: meubles
+shop: Möbel
 ---

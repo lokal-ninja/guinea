@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /bamakama/boutique/
-shop: commodité
+shop: Lebensmittel
 ---

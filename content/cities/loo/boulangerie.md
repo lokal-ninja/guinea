@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /loo/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier de Coiffure"
 url: /ouro/atelier-de-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

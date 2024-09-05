@@ -1,5 +1,5 @@
 ---
 title: "Kadiatou diallo ni"
 url: /forecariah/kadiatou-diallo-ni/
-shop: commodité
+shop: Lebensmittel
 ---

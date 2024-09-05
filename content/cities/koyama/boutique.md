@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /koyama/boutique/
-shop: commodité
+shop: Lebensmittel
 ---

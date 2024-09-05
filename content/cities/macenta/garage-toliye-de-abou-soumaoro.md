@@ -1,5 +1,5 @@
 ---
 title: "Garage Toliye de Abou Soumaoro"
 url: /macenta/garage-toliye-de-abou-soumaoro/
-shop: réparation de voitures
+shop: Autowerkstatt
 ---

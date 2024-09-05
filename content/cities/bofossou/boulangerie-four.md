@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie (four)"
 url: /bofossou/boulangerie-four/
-shop: boulangerie
+shop: Bäckerei
 ---

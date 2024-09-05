@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /kobikoro/boutique/
-shop: commodité
+shop: Lebensmittel
 ---

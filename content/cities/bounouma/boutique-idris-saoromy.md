@@ -1,5 +1,5 @@
 ---
 title: "Boutique Idris Saoromy"
 url: /bounouma/boutique-idris-saoromy/
-shop: commodité
+shop: Lebensmittel
 ---
