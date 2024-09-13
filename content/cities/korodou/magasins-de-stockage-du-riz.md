@@ -1,5 +1,5 @@
 ---
 title: "Magasins de stockage du riz"
 url: /korodou/magasins-de-stockage-du-riz/
-shop: Großhandel
+shop: vente en gros
 ---

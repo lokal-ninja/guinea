@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
 url: /koyama/hangar/
-shop: Metzgerei
+shop: boucherie
 ---

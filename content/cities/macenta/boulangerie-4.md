@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /macenta/boulangerie-4/
-shop: Bäckerei
+shop: boulangerie
 ---

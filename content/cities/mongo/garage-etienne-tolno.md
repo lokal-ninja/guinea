@@ -1,5 +1,5 @@
 ---
 title: "Garage Etienne Tolno"
 url: /mongo/garage-etienne-tolno/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

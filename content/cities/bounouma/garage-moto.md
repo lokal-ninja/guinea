@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
 url: /bounouma/garage-moto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

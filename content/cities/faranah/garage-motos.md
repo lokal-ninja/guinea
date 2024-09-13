@@ -1,5 +1,5 @@
 ---
 title: "Garage Motos"
 url: /faranah/garage-motos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Contenaire"
 url: /koyama/contenaire/
-shop: Kiosk
+shop: commodité
 ---

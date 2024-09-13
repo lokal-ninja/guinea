@@ -1,5 +1,5 @@
 ---
 title: "Lavage Auto"
 url: /koyama/lavage-auto/
-shop: Wäscherei
+shop: blanchisserie
 ---

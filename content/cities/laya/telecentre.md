@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /laya/telecentre/
-shop: Handy
+shop: téléphone portable
 ---

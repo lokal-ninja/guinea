@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /koyama/telecentre-5/
-shop: Handy
+shop: téléphone portable
 ---

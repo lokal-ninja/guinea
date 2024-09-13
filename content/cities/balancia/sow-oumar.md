@@ -1,5 +1,5 @@
 ---
 title: "SOW Oumar"
 url: /balancia/sow-oumar/
-shop: Bäckerei
+shop: boulangerie
 ---

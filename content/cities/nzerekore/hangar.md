@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
 url: /nzerekore/hangar/
-shop: Lebensmittel
+shop: commodité
 ---

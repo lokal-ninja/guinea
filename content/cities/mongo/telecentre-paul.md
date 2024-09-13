@@ -1,5 +1,5 @@
 ---
 title: "Télécentre Paul"
 url: /mongo/telecentre-paul/
-shop: Handy
+shop: téléphone portable
 ---

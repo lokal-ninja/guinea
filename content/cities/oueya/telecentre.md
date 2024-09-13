@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /oueya/telecentre/
-shop: Handy
+shop: téléphone portable
 ---

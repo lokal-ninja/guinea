@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /diecke/magasin-4/
-shop: Lebensmittel
+shop: commodité
 ---

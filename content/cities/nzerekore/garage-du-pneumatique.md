@@ -1,5 +1,5 @@
 ---
 title: "Garage du pneumatique"
 url: /nzerekore/garage-du-pneumatique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

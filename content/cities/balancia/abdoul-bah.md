@@ -1,5 +1,5 @@
 ---
 title: "Abdoul Bah"
 url: /balancia/abdoul-bah/
-shop: Lebensmittel
+shop: commodité
 ---

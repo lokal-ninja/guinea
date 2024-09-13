@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /koundou/telecentre/
-shop: Handy
+shop: téléphone portable
 ---

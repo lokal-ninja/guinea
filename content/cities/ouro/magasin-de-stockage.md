@@ -1,5 +1,5 @@
 ---
 title: "Magasin de stockage"
 url: /ouro/magasin-de-stockage/
-shop: Großhandel
+shop: vente en gros
 ---

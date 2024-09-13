@@ -1,5 +1,5 @@
 ---
 title: "Condé"
 url: /songoya-marche/conde/
-shop: Lebensmittel
+shop: commodité
 ---

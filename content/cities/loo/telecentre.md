@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /loo/telecentre/
-shop: Handy
+shop: téléphone portable
 ---

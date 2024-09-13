@@ -1,5 +1,5 @@
 ---
 title: "Garage siaki"
 url: /bamakama/garage-siaki/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

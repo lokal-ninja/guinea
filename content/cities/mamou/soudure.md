@@ -1,5 +1,5 @@
 ---
 title: "Soudure"
 url: /mamou/soudure/
-shop: Eisenwaren
+shop: matériel informatique
 ---

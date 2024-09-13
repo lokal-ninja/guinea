@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /mamou/boutique/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier"
 url: /konia-aviation/atelier/
-shop: Schneiderei
+shop: tailleur
 ---

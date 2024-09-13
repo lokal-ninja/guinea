@@ -1,5 +1,5 @@
 ---
 title: "Garage mécanique"
 url: /forecariah/garage-mecanique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

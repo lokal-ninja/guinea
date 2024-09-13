@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /bounouma/boutique-7/
-shop: Lebensmittel
+shop: commodité
 ---

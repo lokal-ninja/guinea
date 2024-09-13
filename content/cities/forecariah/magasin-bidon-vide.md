@@ -1,5 +1,5 @@
 ---
 title: "Magasin bidon vide"
 url: /forecariah/magasin-bidon-vide/
-shop: Lebensmittel
+shop: commodité
 ---

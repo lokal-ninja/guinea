@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /tassen/kiosque/
-shop: Kiosk
+shop: kiosque
 ---

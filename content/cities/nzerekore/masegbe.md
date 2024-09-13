@@ -1,5 +1,5 @@
 ---
 title: "Maségbe"
 url: /nzerekore/masegbe/
-shop: Lebensmittel
+shop: commodité
 ---

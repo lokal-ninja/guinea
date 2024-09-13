@@ -1,5 +1,5 @@
 ---
 title: "Conteneur"
 url: /forecariah/conteneur/
-shop: Lebensmittel
+shop: commodité
 ---

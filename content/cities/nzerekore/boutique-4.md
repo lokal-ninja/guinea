@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /nzerekore/boutique-4/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bari"
 url: /balancia/bari/
-shop: Lebensmittel
+shop: commodité
 ---

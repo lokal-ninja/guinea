@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /demou-ii/telecentre/
-shop: Handy
+shop: téléphone portable
 ---

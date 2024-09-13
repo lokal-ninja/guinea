@@ -1,6 +1,6 @@
 ---
 title: Koyama
 url: /koyama/
-latitude: 7.902
-longitude: -9.357
+latitude: 7.9
+longitude: -9.358
 ---

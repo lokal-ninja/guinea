@@ -1,5 +1,5 @@
 ---
 title: "Garage Moto"
 url: /laya/garage-moto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

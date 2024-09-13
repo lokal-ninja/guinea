@@ -1,5 +1,5 @@
 ---
 title: "Diallo"
 url: /mamou/diallo/
-shop: Lebensmittel
+shop: commodité
 ---

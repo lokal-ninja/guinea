@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
 url: /faranah/hangar/
-shop: Schneiderei
+shop: tailleur
 ---

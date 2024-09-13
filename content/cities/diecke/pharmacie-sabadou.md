@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie sabadou"
 url: /diecke/pharmacie-sabadou/
-shop: Drogerie
+shop: chimiste
 ---

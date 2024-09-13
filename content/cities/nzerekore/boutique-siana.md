@@ -1,5 +1,5 @@
 ---
 title: "Boutique Siana"
 url: /nzerekore/boutique-siana/
-shop: Lebensmittel
+shop: commodité
 ---

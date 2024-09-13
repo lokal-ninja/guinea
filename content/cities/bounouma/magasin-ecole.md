@@ -1,5 +1,5 @@
 ---
 title: "Magasin école"
 url: /bounouma/magasin-ecole/
-shop: Lebensmittel
+shop: commodité
 ---

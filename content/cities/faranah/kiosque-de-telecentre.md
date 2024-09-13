@@ -1,5 +1,5 @@
 ---
 title: "Kiosque de télécentre"
 url: /faranah/kiosque-de-telecentre/
-shop: Handy
+shop: téléphone portable
 ---

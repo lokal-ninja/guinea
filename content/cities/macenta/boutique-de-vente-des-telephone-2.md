@@ -1,5 +1,5 @@
 ---
 title: "Boutique de Vente des Téléphone"
 url: /macenta/boutique-de-vente-des-telephone-2/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /forecariah/magasin/
-shop: Lebensmittel
+shop: commodité
 ---

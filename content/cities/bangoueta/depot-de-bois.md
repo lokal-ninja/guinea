@@ -1,5 +1,5 @@
 ---
 title: "Dépôt de bois"
 url: /bangoueta/depot-de-bois/
-shop: Getränke
+shop: boissons
 ---

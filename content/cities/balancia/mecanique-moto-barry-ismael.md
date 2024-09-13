@@ -1,5 +1,5 @@
 ---
 title: "Mécanique moto BARRY Ismaël"
 url: /balancia/mecanique-moto-barry-ismael/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

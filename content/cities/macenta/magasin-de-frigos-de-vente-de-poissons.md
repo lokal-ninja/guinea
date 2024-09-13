@@ -1,5 +1,5 @@
 ---
 title: "Magasin de Frigos de Vente de Poissons"
 url: /macenta/magasin-de-frigos-de-vente-de-poissons/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hangar"
 url: /ouro/hangar-3/
-shop: Handy
+shop: téléphone portable
 ---

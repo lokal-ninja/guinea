@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /balancia/boutique/
-shop: Lebensmittel
+shop: commodité
 ---

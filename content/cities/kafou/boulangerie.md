@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /kafou/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

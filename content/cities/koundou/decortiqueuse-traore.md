@@ -1,5 +1,5 @@
 ---
 title: "Decortiqueuse Traoré"
 url: /koundou/decortiqueuse-traore/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

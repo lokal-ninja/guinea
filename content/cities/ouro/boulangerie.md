@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /ouro/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

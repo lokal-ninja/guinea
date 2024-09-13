@@ -1,5 +1,5 @@
 ---
 title: "Hangar de Bofila Guilavogui"
 url: /macenta/hangar-de-bofila-guilavogui/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magasin de Stockage de Ciments"
 url: /nzerekore/magasin-de-stockage-de-ciments/
-shop: Eisenwaren
+shop: matériel informatique
 ---

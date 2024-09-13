@@ -1,5 +1,5 @@
 ---
 title: "Moussa Condé"
 url: /nzerekore/moussa-conde/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

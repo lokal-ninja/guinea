@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /faranah/orange/
-shop: Handy
+shop: téléphone portable
 ---

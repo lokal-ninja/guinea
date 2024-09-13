@@ -1,5 +1,5 @@
 ---
 title: "Table de commerce"
 url: /macenta/table-de-commerce/
-shop: Lebensmittel
+shop: commodité
 ---

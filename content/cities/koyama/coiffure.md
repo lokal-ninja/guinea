@@ -1,5 +1,5 @@
 ---
 title: "Coiffure"
 url: /koyama/coiffure/
-shop: Kosmetik
+shop: beauté
 ---

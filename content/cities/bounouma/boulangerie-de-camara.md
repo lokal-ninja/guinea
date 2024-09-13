@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie de Camara"
 url: /bounouma/boulangerie-de-camara/
-shop: Bäckerei
+shop: boulangerie
 ---

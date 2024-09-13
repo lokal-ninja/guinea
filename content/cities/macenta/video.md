@@ -1,5 +1,5 @@
 ---
 title: "Vidéo"
 url: /macenta/video/
-shop: Videothek
+shop: vidéo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /bangoueta/kiosque/
-shop: Kiosk
+shop: kiosque
 ---

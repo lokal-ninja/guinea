@@ -1,5 +1,5 @@
 ---
 title: "Kaibai Onivogui"
 url: /macenta/kaibai-onivogui/
-shop: Lebensmittel
+shop: commodité
 ---

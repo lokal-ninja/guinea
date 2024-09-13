@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /nzerekore/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

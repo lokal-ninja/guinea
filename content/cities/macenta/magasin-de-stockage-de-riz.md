@@ -1,5 +1,5 @@
 ---
 title: "Magasin de Stockage de Riz"
 url: /macenta/magasin-de-stockage-de-riz/
-shop: Großhandel
+shop: vente en gros
 ---

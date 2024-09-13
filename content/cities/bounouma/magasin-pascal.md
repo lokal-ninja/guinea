@@ -1,5 +1,5 @@
 ---
 title: "Magasin Pascal"
 url: /bounouma/magasin-pascal/
-shop: Lebensmittel
+shop: commodité
 ---

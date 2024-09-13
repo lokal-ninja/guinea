@@ -1,5 +1,5 @@
 ---
 title: "Alpha Condé"
 url: /macenta/alpha-conde/
-shop: Schneiderei
+shop: tailleur
 ---

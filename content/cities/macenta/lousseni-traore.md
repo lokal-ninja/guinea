@@ -1,5 +1,5 @@
 ---
 title: "Lousseni Traoré"
 url: /macenta/lousseni-traore/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

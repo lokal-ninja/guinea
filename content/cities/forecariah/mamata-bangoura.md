@@ -1,5 +1,5 @@
 ---
 title: "Mamata Bangoura"
 url: /forecariah/mamata-bangoura/
-shop: Kiosk
+shop: kiosque
 ---

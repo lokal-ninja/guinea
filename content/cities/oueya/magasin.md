@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /oueya/magasin/
-shop: Möbel
+shop: meubles
 ---

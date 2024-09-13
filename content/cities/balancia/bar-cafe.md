@@ -1,5 +1,5 @@
 ---
 title: "Bar Café"
 url: /balancia/bar-cafe/
-shop: Kiosk
+shop: kiosque
 ---

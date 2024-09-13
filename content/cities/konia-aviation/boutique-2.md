@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /konia-aviation/boutique-2/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /sikhourou/boutique-2/
-shop: Lebensmittel
+shop: commodité
 ---

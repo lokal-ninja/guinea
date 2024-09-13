@@ -1,5 +1,5 @@
 ---
 title: "Garage Motos"
 url: /nzerekore/garage-motos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

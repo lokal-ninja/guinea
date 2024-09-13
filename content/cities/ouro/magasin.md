@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /ouro/magasin/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

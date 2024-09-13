@@ -1,5 +1,5 @@
 ---
 title: "Magasin Stockage de Kola"
 url: /macenta/magasin-stockage-de-kola-2/
-shop: Hofladen
+shop: ferme
 ---

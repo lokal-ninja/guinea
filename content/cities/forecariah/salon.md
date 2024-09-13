@@ -1,5 +1,5 @@
 ---
 title: "Salon"
 url: /forecariah/salon/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sékou Fofana"
 url: /macenta/sekou-fofana/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

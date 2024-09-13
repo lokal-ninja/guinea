@@ -1,5 +1,5 @@
 ---
 title: "Salon de coiffure de Soumah"
 url: /forecariah/salon-de-coiffure-de-soumah/
-shop: Friseur
+shop: coiffeur
 ---

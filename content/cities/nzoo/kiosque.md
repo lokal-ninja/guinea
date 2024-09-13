@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /nzoo/kiosque/
-shop: Lebensmittel
+shop: commodité
 ---

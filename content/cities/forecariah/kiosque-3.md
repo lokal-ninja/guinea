@@ -1,5 +1,5 @@
 ---
 title: "Kiosque"
 url: /forecariah/kiosque-3/
-shop: Kiosk
+shop: kiosque
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Télécentre de Koli Inapovui"
 url: /macenta/telecentre-de-koli-inapovui/
-shop: Handy
+shop: téléphone portable
 ---

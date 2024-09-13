@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /faranah/boutique-8/
-shop: Lebensmittel
+shop: commodité
 ---

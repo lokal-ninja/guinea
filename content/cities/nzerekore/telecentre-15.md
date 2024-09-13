@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /nzerekore/telecentre-15/
-shop: Handy
+shop: téléphone portable
 ---
