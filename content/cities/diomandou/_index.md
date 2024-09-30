@@ -1,6 +1,6 @@
 ---
 title: Diomandou
 url: /diomandou/
-latitude: 8.456
-longitude: -9.587
+latitude: 8.457
+longitude: -9.588
 ---
