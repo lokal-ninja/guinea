@@ -1,6 +1,6 @@
 ---
 title: Koundou
 url: /koundou/
-latitude: 8.635
-longitude: -10.412
+latitude: 8.644
+longitude: -10.418
 ---
