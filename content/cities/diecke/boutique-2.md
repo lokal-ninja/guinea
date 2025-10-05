@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /diecke/boutique-2/
-shop: électronique
+shop: commodité
 ---
