@@ -1,5 +1,5 @@
 ---
 title: "Télécentre"
 url: /macenta/telecentre-19/
-shop: kiosque
+shop: téléphone portable
 ---
