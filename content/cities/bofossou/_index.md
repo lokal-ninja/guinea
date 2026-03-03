@@ -1,6 +1,6 @@
 ---
 title: Bofossou
 url: /bofossou/
-latitude: 8.659
-longitude: -9.693
+latitude: 8.663
+longitude: -9.696
 ---
