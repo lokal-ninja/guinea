@@ -1,6 +1,6 @@
 ---
 title: CONAKRY
 url: /conakry/
-latitude: 9.549
-longitude: -13.661
+latitude: 9.508
+longitude: -13.714
 ---
