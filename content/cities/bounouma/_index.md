@@ -1,6 +1,6 @@
 ---
 title: Bounouma
 url: /bounouma/
-latitude: 7.641
-longitude: -8.801
+latitude: 7.639
+longitude: -8.796
 ---

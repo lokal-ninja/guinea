@@ -1,5 +1,5 @@
 ---
-title: "Salon de Coiffure"
+title: "salon de coiffure"
 url: /nzerekore/salon-de-coiffure-7/
-shop: coiffeur
+shop: beauté
 ---
