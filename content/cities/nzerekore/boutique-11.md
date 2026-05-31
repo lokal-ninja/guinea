@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
-url: /nzerekore/boutique-rue-nimba-2/
+url: /nzerekore/boutique-11/
 shop: commodité
 ---
