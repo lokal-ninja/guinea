@@ -1,6 +1,6 @@
 ---
 title: Sikhourou
 url: /sikhourou/
-latitude: 9.611
-longitude: -12.809
+latitude: 9.612
+longitude: -12.808
 ---

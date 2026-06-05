@@ -1,6 +1,6 @@
 ---
 title: Yomadou Doukono
 url: /yomadou-doukono/
-latitude: 8.948
-longitude: -10.467
+latitude: 8.947
+longitude: -10.468
 ---
