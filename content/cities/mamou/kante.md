@@ -1,5 +1,5 @@
 ---
-title: "KANTE"
+title: "Kanté"
 url: /mamou/kante/
 shop: commodité
 ---
